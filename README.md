@@ -16,7 +16,7 @@ This repository contains my journey and projects in learning Machine Learning th
 To get started with this repository, clone it and explore the different projects and notebooks.
 
 ```bash
-git clone https://github.com/yourusername/MachineLearning2026_Rohit.git
+git clone https://github.com/rohitx00/MachineLearning2026_Rohit.git
 cd MachineLearning2026_Rohit
 ```
 
